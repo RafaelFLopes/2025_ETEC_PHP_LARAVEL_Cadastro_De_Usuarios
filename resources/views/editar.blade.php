@@ -16,7 +16,7 @@
     <body>
         <nav class="navbar navbar-expand-lg bg-success">
             <div class="container-fluid">
-                <a class="navbar-brand" href="/" style="font-weight:600; color: white">
+                <a class="navbar-brand" href="/" style="font-weight: 800; color: rgb(219, 209, 62)">
                     BRAZECAS
                 </a>
             </div>
